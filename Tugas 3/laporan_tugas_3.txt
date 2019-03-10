@@ -1,0 +1,10 @@
+Nama	: Rimba Erlangga
+NIM	: 16/398526/PA/17487
+
+Implementasi Single Layer Perceptron
+- Data: iris
+- Fungsi aktivasi: sigmoid
+- Hyperparameter:
+  - learning_rate = 0.1 dan 0.8
+  - epoch = 300
+  - ukuran data validasi = 20%
